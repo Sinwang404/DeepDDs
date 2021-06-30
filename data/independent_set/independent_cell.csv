@@ -1,0 +1,25 @@
+Cell line name,COSMIC ID,GDSC tissue descriptor 1,GDSC tissue descriptor 2,TCGA label,MSI,Growth properties,AZ-DREAM ,O'Neil et al. 2016,ALMANAC
+22RV1,924100,urogenital_system,prostate,PRAD,MSI-H,Adherent,1,0,0
+A549,905949,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,MSS/MSI-L,Adherent,1,0,1
+C32,906830,skin,melanoma,SKCM,MSS/MSI-L,Adherent,1,0,0
+HCC1143,749710,breast,breast,BRCA,MSS/MSI-L,Adherent,1,0,0
+HCC1187,749711,breast,breast,BRCA,MSS/MSI-L,Suspension,1,0,0
+HCC1395,749712,breast,breast,BRCA,MSS/MSI-L,Adherent,1,0,0
+HCC1419,907045,breast,breast,BRCA,MSS/MSI-L,Adherent,1,0,0
+HCC1428,1290905,breast,breast,BRCA,MSS/MSI-L,Adherent,1,0,0
+HCC1500,1303900,breast,breast,BRCA,MSS/MSI-L,Adherent,1,0,0
+HCC1569,907046,breast,breast,BRCA,MSI-H,Adherent,1,0,0
+HCC1806,907047,breast,breast,,MSS/MSI-L,Adherent,1,0,0
+HCC1937,749714,breast,breast,BRCA,MSS/MSI-L,Adherent,1,0,0
+HCC1954,749709,breast,breast,BRCA,MSS/MSI-L,Adherent,1,0,0
+HCC38,749717,breast,breast,BRCA,MSS/MSI-L,Adherent,1,0,0
+HCC70,907048,breast,breast,BRCA,MSS/MSI-L,Adherent,1,0,0
+J82,753566,urogenital_system,Bladder,BLCA,MSS/MSI-L,Adherent,1,0,0
+KATOIII,907276,digestive_system,stomach,STAD,MSS/MSI-L,Semi-Adherent,1,0,0
+MCF7,905946,breast,breast,BRCA,MSS/MSI-L,Adherent,1,0,1
+RT4,687455,urogenital_system,Bladder,BLCA,MSS/MSI-L,Adherent,1,0,0
+SW48,909751,large_intestine,large_intestine,COAD/READ,MSI-H,Adherent,1,0,0
+SW780,687457,urogenital_system,Bladder,BLCA,MSS/MSI-L,Adherent,1,0,0
+SW900,724879,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,MSS/MSI-L,Adherent,1,0,0
+SW948,909757,large_intestine,large_intestine,COAD/READ,MSS/MSI-L,Adherent,1,0,0
+TCCSUP,687459,urogenital_system,Bladder,BLCA,MSS/MSI-L,Adherent,1,0,0

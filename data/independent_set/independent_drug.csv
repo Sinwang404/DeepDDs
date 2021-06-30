@@ -1,0 +1,58 @@
+Drug name,Challenge drug name,Putative target,Function,Pathway,HBA,HBD,Molecular weight,cLogP,Lipinski,smile
+AZD5363,AKT,AKT1;AKT2;AKT3,Oncogenic signal,AKT/PI3K,8,5,428.9,1.18,0,c1cc(ccc1[C@H](CCO)NC(=O)C2(CCN(CC2)c3c4cc[nH]c4ncn3)N)Cl
+MK2206,AKT_1,AKT*,Oncogenic signal,AKT/PI3K,6,3,407.5,3.24,0,c1ccc(cc1)c2cc3c(ccn4c3n[nH]c4=O)nc2c5ccc(cc5)C6(CCC6)N
+"AZ13409007, AKTaz",AKT_SGK,AKT*;SGK*,Oncogenic signal,AKT/PI3K,8,3,459.3,2.25,0,COc1cc2c(cc1OC)C3(CCN(CC3)c4c5c([nH]nc5Br)ncn4)C[C@H]2N
+AZ13361171,ALK,ALK,Oncogenic signal,AKT/PI3K,8,2,532.1,3.89,1,CN1CCN(CC1)C2CCN(CC2)c3ccc(c(c3)OC)Nc4ncc(c(n4)c5c[nH]c6c5cccc6)Cl
+AZD3463,ALK_IGFR,ALK;IGF*R,Oncogenic signal,AKT/PI3K,7,4,449,4.08,0,COc1cc(ccc1Nc2ncc(c(n2)c3c[nH]c4c3cccc4)Cl)N5CCC(CC5)N
+MDV3-100,AR,AR,Oncogenic signal,Hormonal,6,1,464.4,3.35,0,CC1(C(=O)N(C(=S)N1c2ccc(c(c2)F)C(=O)NC)c3ccc(c(c3)C(F)(F)F)C#N)C
+AZD3514,AR_1,AR,Oncogenic signal,Hormonal,9,0,519.6,2.38,1,CC(=O)N1CCN(CCOc2ccc(cc2)C3CCN(CC3)C4=Nn5c(CC4)nnc5C(F)(F)F)CC1
+"AZ12618466,AZ13535704",ATM,ATM,DNA repair,DNA Damage Response,8,1,547.7,4.28,1,C[C@@H]1CN(C[C@@H](O1)C)CC(=O)Nc2ccc3c(c2)Cc4cccc(c4S3)c5cc(=O)cc(o5)N6CCOCC6
+AZ13135223,ATR_1,ATR,DNA repair,DNA Damage Response,7,1,398.5,0.44,0,CS(=O)(=O)C1(CC1)c2cc(nc(n2)c3cccc4c3cc[nH]4)N5CCOCC5
+AZ13242274,ATR_2,ATR,DNA repair,DNA Damage Response,7,1,412.5,0.96,0,C[C@@H]1COCCN1c2cc(nc(n2)c3cccc4c3cc[nH]4)C5(CC5)S(=O)(=O)C
+AZD6738,ATR_4,ATR,DNA repair,DNA Damage Response,8,2,412.5,0.59,0,C[C@@H]1COCCN1c2cc(nc(n2)c3ccnc4c3cc[nH]4)C5(CC5)[S@](=N)(=O)C
+AZ12849707,BCL2,BCL2,Cell death,Apoptosis,11,2,974.6,12.39,3,CC1(CCC(=C(C1)CN2CCN(CC2)c3ccc(cc3)C(=O)NS(=O)(=O)c4ccc(c(c4)S(=O)(=O)C(F)(F)F)N[C@H](CCN5CCOCC5)CSc6ccccc6)c7ccc(cc7)Cl)C
+AZD4320,BCL2_BCL2L1,BCL2;BCL2L1,Cell death,Apoptosis,11,4,945.5,9.62,3,CN(CC[C@H](CSc1ccccc1)Nc2ccc(cc2S(=O)(=O)C(F)(F)F)S(=O)(=O)NC(=O)c3ccc(cc3)N4CCC(CC4)[C@H](c5ccccc5c6ccc(cc6)Cl)O)CCO
+AZ13453202,BCL2L1,BCL2L1,Cell death,Apoptosis,9,2,651.8,3.05,1,CN(C)CC#Cc1ccc(OCCCc2sc(nc2C(=O)O)N3CCc4cccc(C(=O)Nc5nc6ccccc6s5)c4C3)cc1
+AZ12799043,BRAF_M,BRAF_mut,Oncogenic signal,MAPK,8,4,498.5,2.08,0,CCCS(=O)(=O)Nc1ccc(c(c1F)C(=O)c2c[nH]c3c2cc(cn3)c4cccc(c4)C(=O)N)F
+AZD7762,CHEK1,CHEK1,DNA repair,DNA Damage Response,6,5,362.4,3.11,0,c1cc(cc(c1)F)c2cc(c(s2)C(=O)N[C@H]3CCCNC3)NC(=O)N
+AZ13146895,CSNK2A1,CSNK2A1,Oncogenic signal,STK,10,3,447.5,3.02,0,CC(=O)Nc1cc(ccc1N(C)CCN(C)C)Nc2cc(n3c(n2)c(cn3)C#N)NC4CC4
+AZ13250285,CSNK2A1_2,CSNK2A1,Oncogenic signal,STK,10,5,419.5,2.12,0,CC(=O)Nc1cc(ccc1N(C)CCN)Nc2cc(n3c(n2)c(cn3)C#N)NC4CC4
+Docetaxel,Docetaxel,TUBB1;BCL2;MAP2;MAP4;MAPT;NR1I2,DNA repair,Chemo,15,5,807.9,4.08,2,CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(c5ccccc5)NC(=O)OC(C)(C)C)O)O)OC(=O)c6ccccc6)(CO4)OC(=O)C)O)C)O
+"AZ13047864, Doxorubicin",Doxorubicin,TOP*;DNMT1,DNA repair,Chemo,12,7,543.5,0.32,3,CC1C(C(CC(O1)OC2CC(Cc3c2c(c4c(c3O)C(=O)c5cccc(c5C4=O)OC)O)(C(=O)CO)O)N)O
+Afatinib,EGFR,EGFR,Oncogenic signal,RTK,8,2,485.9,4.49,0,CN(C)C/C=C/C(=O)Nc1cc2c(cc1O[C@H]3CCOC3)ncnc2Nc4ccc(c(c4)Cl)F
+"Iressa,Gefitinib,AZD1839",EGFR_2,EGFR,Oncogenic signal,RTK,7,1,446.9,5.6,1,COc1cc2c(cc1OCCCN3CCOCC3)c(ncn2)Nc4ccc(c(c4)Cl)F
+AZD8931,ERBB,EGFR;ERBB*,Oncogenic signal,RTK,8,2,473.9,4.51,0,CNC(=O)CN1CCC(CC1)Oc2cc3c(cc2OC)ncnc3Nc4cccc(c4F)Cl
+"AZ13590091,AZ12756122",FASN,FASN,Metabolism,Metabolism,6,0,462.6,4.8,0,c1cc(ccc1c2ccc3c(c2)cco3)c4nc5cnccc5n4C[C@@H]6CCN(C6)C(=O)C7CC7
+AZD4547,FGFR,FGFR1;FGFR2;FGFR3,Oncogenic signal,RTK,8,3,463.6,4.43,0,C[C@@H]1CN(C[C@@H](N1)C)c2ccc(cc2)C(=O)Nc3cc(n[nH]3)CCc4cc(cc(c4)OC)OC
+"Gemcitibine,Gemzar",Gemcitabine,DNA;RRM1;TYMS;CMPK1,Cell death,Chemo,7,4,263.2,-0.71,0,c1cn(c(=O)nc1N)C2C(C(C(O2)CO)O)(F)F
+AZD7032,IGFR_2,IGF*R,Oncogenic signal,RTK,9,2,463.5,3.59,0,COc1cc(ccc1Nc2ncc(c(n2)c3cnc4n3cccc4)F)N5CCN(CC5)CCO
+IGF-OSI,IGFR_3,IGF*R,Oncogenic signal,RTK,6,3,421.5,4,0,C[C@]1(C[C@@H](C1)c2n3c(c(ncc3)N)c(n2)c4cc5nc(ccc5cc4)c6ccccc6)O
+AZ13088546,IGFR_4,IGF*R,Oncogenic signal,RTK,9,2,507,4.29,1,C[C@H](C(=O)N1CCC(CC1)c2ccc(c(c2)OC)Nc3ncc(c(n3)c4cnc5n4cccc5)Cl)O
+"AZ12879988,AZ10234562",IKBK,CHUK;IKBK*,Cell death,Apoptosis,7,3,395.5,1.59,0,c1cc(c(c(c1)OCC2CC2)c3cc(c4c(n3)NC(=O)OC4)C5CCCNC5)O
+AZD1480,JAK,JAK1;JAK2,Oncogenic signal,Cell Cycle,8,3,348.8,2.01,0,Cc1cc(n[nH]1)Nc2c(cnc(n2)N[C@@H](C)c3ncc(cn3)F)Cl
+"Mekinist,GSK1120212,Trametinib",MAP2K,MAP2K1;MAP2K2,Oncogenic signal,MAPK,6,2,615.4,4.84,1,CC1=C2C(=C(N(C1=O)C)NC3=C(C=C(C=C3)I)F)C(=O)N(C(=O)N2C4=CC(=CC=C4)NC(=O)C)C5CC5
+"AZD6244,Selumetinib",MAP2K_1,MAP2K1;MAP2K2,Oncogenic signal,MAPK,7,3,457.7,3.88,0,Cn1cnc2c1cc(c(c2F)Nc3ccc(cc3Cl)Br)C(=O)NOCCO
+GDC-0623,MAP2K_2,MAP2K*,Oncogenic signal,MAPK,7,3,456.2,3.22,0,c1cc(c(cc1I)F)Nc2c(ccc3n2cnc3)C(=O)NOCCO
+MEK_GSK,MAP2K_3,MAP2K*,Oncogenic signal,MAPK,6,2,615.4,4.98,1,Cc1c2c(c(n(c1=O)C)Nc3ccc(cc3F)I)c(=O)n(c(=O)n2c4cccc(c4)NC(=O)C)C5CC5
+PF-04217903,MET,cMET,Oncogenic signal,RTK,9,1,372.4,0.52,0,c1cc2cc(ccc2nc1)Cn3c4c(ncc(n4)c5cnn(c5)CCO)nn3
+Crizotinib,MET_ALK,cMET;ALK,Oncogenic signal,RTK,6,3,450.3,4.29,0,C[C@H](c1c(ccc(c1Cl)F)Cl)Oc2cc(cnc2N)c3cnn(c3)C4CCNCC4
+AZD8055,MTOR,MTOR,Oncogenic signal,AKT/PI3K,9,1,465.6,2.59,0,C[C@H]1COCCN1c2c3ccc(nc3nc(n2)N4CCOC[C@@H]4C)c5ccc(c(c5)CO)OC
+AZD2014,MTOR_1,MTOR,Oncogenic signal,AKT/PI3K,9,1,462.6,2.47,0,C[C@H]1COCCN1c2c3ccc(nc3nc(n2)N4CCOC[C@@H]4C)c5cccc(c5)C(=O)NC
+"AZD2281,Olaparib",PARP1,PARP1,DNA repair,DNA Damage Response,7,1,434.5,1.24,0,c1ccc2c(c1)c(n[nH]c2=O)Cc3ccc(c(c3)C(=O)N4CCN(CC4)C(=O)C5CC5)F
+AZD2461,PARP1_2,PARP1,DNA repair,DNA Damage Response,6,1,395.4,0.73,0,COC1CCN(CC1)C(=O)c2cc(ccc2F)Cc3c4ccccc4c(=O)[nH]n3
+"GDC-0941, PI3K-abd",PIK3C,PIK3C*,Oncogenic signal,AKT/PI3K,10,1,513.6,2.63,1,CS(=O)(=O)N1CCN(CC1)Cc2cc3c(s2)c(nc(n3)c4cccc5c4cn[nH]5)N6CCOCC6
+BKM120,PIK3C_2,PIK3C*,Oncogenic signal,AKT/PI3K,8,2,410.4,1.58,0,c1c(c(cnc1N)c2cc(nc(n2)N3CCOCC3)N4CCOCC4)C(F)(F)F
+AZ13036220,PIK3CA_2,PIK3CA,Oncogenic signal,AKT/PI3K,7,1,365.4,2.56,0,CS(=O)(=O)c1ccc(cc1)Nc2cncc(n2)c3cnc4n3cccc4
+AZ13406193,PIK3CA_3,PIK3CA,Oncogenic signal,AKT/PI3K,7,1,318.3,3.12,0,COc1cc(cnc1)Nc2cncc(n2)c3cnc4n3cccc4
+BYL-719,PIK3CA_4,PIK3CA,Oncogenic signal,AKT/PI3K,7,3,441.5,2.13,0,Cc1c(sc(n1)NC(=O)N2CCC[C@H]2C(=O)N)c3ccnc(c3)C(C)(C)C(F)(F)F
+AZD8186,PIK3CB_PIK3CD,PIK3CB;PIK3CD,Oncogenic signal,AKT/PI3K,7,1,457.5,1.67,0,CC(c1cc(cc2c1oc(cc2=O)N3CCOCC3)C(=O)N(C)C)Nc4cc(cc(c4)F)F
+AZD1208,PIM1,PIM1,Oncogenic signal,STK,5,3,379.5,3.18,0,c1ccc(cc1)c2cccc(c2N3CCC[C@H](C3)N)/C=C\4/C(=O)NC(=O)S4
+"AZ12594248,AZ13163036,AZ13150560",PRKDC_2,PRKDC,DNA repair,DNA Damage Response,8,1,582.7,4.39,1,CCN1CCN(CC1)CC(=O)Nc2ccc(c3c2c4ccccc4s3)c5cccc6c5oc(cc6=O)N7CCOCC7
+AZ13041521,PTK2,PTK2*,Differentiation,EMT/migration,7,3,404.4,4.29,0,Cc1c(cn(n1)C)Nc2cc(c(cn2)C(F)(F)F)Nc3ccccc3C(=O)NC
+AZ13257149,PTK2_2,PTK2*,Differentiation,EMT/migration,8,3,438.4,4.17,0,Cc1c(cn(n1)C)Nc2cc(c(cn2)C(F)(F)F)Nc3ccc(cc3C(=O)NOC)F
+SN38,SN38,TOP1;TOP2*,DNA repair,Chemo,7,2,392.4,1.97,0,CCc1c2cc(ccc2nc-3c1Cn4c3cc5c(c4=O)COC(=O)[C@@]5(CC)O)O
+AZD0530,SRC,SRC,Oncogenic signal,RTK,10,1,542,4.11,1,CN1CCN(CC1)CCOc2cc3c(c(c2)OC4CCOCC4)c(ncn3)Nc5c(ccc6c5OCO6)Cl
+AZ13233395,SYK,SYK,Oncogenic signal,Cell Cycle,11,3,470.5,4.12,1,CC1(C(=O)Nc2c(ccc(n2)Nc3c(cnc(n3)Nc4cc(c(c(c4)OC)OC)OC)F)O1)C
+"AZD6474,Vandetinib,Zactima,Caprelsa",TKI,KDR;EGFR;RET,Oncogenic signal,RTK,6,1,475.4,5.84,1,CN1CCC(CC1)COc2cc3c(cc2OC)c(ncn3)Nc4ccc(cc4F)Br
+AZ12623380,TOP2,TOP2*;PRKDC,DNA repair,DNA Damage Response,4,0,413.5,5.44,1,c1ccc2c(c1)c3cccc(c3s2)c4cccc5c4oc(cc5=O)N6CCOCC6
+AZ12783146,TTK,TTK,Oncogenic signal,STK,9,1,452.6,3.62,0,Cn1c2cnc(nc2n(c1=O)C3CCCC3)Nc4ccc(cc4OC)OC5CCN(CC5)C
